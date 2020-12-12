@@ -1,0 +1,2 @@
+# global-currency
+dd
